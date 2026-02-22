@@ -9,6 +9,7 @@ simple:
     output: 1.4
     outout: 1.5
     outpu: 1.6
+    output: 1.78
 
 simple_json:
   model: "Qwen/Qwen3-Next-80B-A3B-Instruct"
